@@ -1,0 +1,8 @@
+20:28:22.432 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully entered Origin:San Jose
+20:28:23.279 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - enter near by airport for  origin
+20:28:25.846 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully entered Destination:Delhi
+20:28:28.904 [main] WARN  com.infostretch.kayak.testcases.SearchFlights - Sucessfully selected toDate:7/9/2020
+20:28:30.252 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully selected fromDate:6/20/2020
+20:28:33.433 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Number of results:17
+20:28:34.903 [main] WARN  com.infostretch.kayak.testcases.SearchFlights - Not asserting when Nearby true
+20:28:35.119 [main] INFO  com.infostretch.kayak.manager.DriverManager - Closing Browser

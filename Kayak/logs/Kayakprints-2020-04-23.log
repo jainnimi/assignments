@@ -1,0 +1,10 @@
+20:27:48.325 [main] INFO  com.infostretch.kayak.browsermanager.ChromeDriverManager - Chrome Browser instantiated
+20:27:54.180 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully entered Origin:Dallas
+20:27:58.021 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully entered Destination:Mumbai
+20:27:58.708 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - enter near by airport for  Destination
+20:28:04.157 [main] WARN  com.infostretch.kayak.testcases.SearchFlights - Sucessfully selected toDate:10/20/2020
+20:28:07.412 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Sucessfully selected fromDate:8/4/2020
+20:28:14.767 [main] INFO  com.infostretch.kayak.testcases.SearchFlights - Number of results:16
+20:28:15.170 [main] WARN  com.infostretch.kayak.testcases.SearchFlights - Not asserting when Nearby true
+20:28:15.349 [main] INFO  com.infostretch.kayak.manager.DriverManager - Closing Browser
+20:28:16.702 [main] INFO  com.infostretch.kayak.browsermanager.ChromeDriverManager - Chrome Browser instantiated
