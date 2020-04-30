@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-04-23T20:27:26 PDT" name="Suite" finished-at="2020-04-23T20:28:35 PDT" duration-ms="68747">
+  <suite started-at="2020-04-25T07:18:25 PDT" name="Suite" finished-at="2020-04-25T07:19:38 PDT" duration-ms="72930">
     <groups>
     </groups>
-    <test started-at="2020-04-23T20:27:26 PDT" name="Test" finished-at="2020-04-23T20:28:35 PDT" duration-ms="68747">
+    <test started-at="2020-04-25T07:18:25 PDT" name="Test" finished-at="2020-04-25T07:19:38 PDT" duration-ms="72930">
       <class name="com.infostretch.kayak.testcases.SearchFlights">
-        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:27:26 PDT" name="initBrowser" finished-at="2020-04-23T20:27:28 PDT" duration-ms="2005" status="PASS">
+        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:18:25 PDT" name="initBrowser" finished-at="2020-04-25T07:18:28 PDT" duration-ms="2285" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:27:28 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-23T20:27:46 PDT" duration-ms="18395" status="PASS">
+        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:18:28 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-25T07:18:49 PDT" duration-ms="20978" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlights -->
-        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:27:46 PDT" name="closeSession" finished-at="2020-04-23T20:27:46 PDT" duration-ms="186" status="PASS">
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:18:49 PDT" name="closeSession" finished-at="2020-04-25T07:18:49 PDT" duration-ms="216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSession -->
-        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:27:46 PDT" name="initBrowser" finished-at="2020-04-23T20:27:48 PDT" duration-ms="1337" status="PASS">
+        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:18:49 PDT" name="initBrowser" finished-at="2020-04-25T07:18:50 PDT" duration-ms="1482" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,7 +74,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:27:48 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-23T20:28:15 PDT" duration-ms="26841" status="PASS">
+        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:18:50 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-25T07:19:17 PDT" duration-ms="26564" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -115,11 +115,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlights -->
-        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:28:15 PDT" name="closeSession" finished-at="2020-04-23T20:28:15 PDT" duration-ms="177" status="PASS">
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:19:17 PDT" name="closeSession" finished-at="2020-04-25T07:19:17 PDT" duration-ms="163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSession -->
-        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:28:15 PDT" name="initBrowser" finished-at="2020-04-23T20:28:16 PDT" duration-ms="1352" status="PASS">
+        <test-method is-config="true" signature="initBrowser(java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:19:17 PDT" name="initBrowser" finished-at="2020-04-25T07:19:19 PDT" duration-ms="1545" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -130,7 +130,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:28:16 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-23T20:28:34 PDT" duration-ms="18211" status="PASS">
+        <test-method signature="searchFlights(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:19:19 PDT" name="searchFlights" data-provider="searchDataProvider" finished-at="2020-04-25T07:19:38 PDT" duration-ms="19464" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,7 +171,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlights -->
-        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-23T20:28:34 PDT" name="closeSession" finished-at="2020-04-23T20:28:35 PDT" duration-ms="205" status="PASS">
+        <test-method is-config="true" signature="closeSession()[pri:0, instance:com.infostretch.kayak.testcases.SearchFlights@68f4865]" started-at="2020-04-25T07:19:38 PDT" name="closeSession" finished-at="2020-04-25T07:19:38 PDT" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSession -->

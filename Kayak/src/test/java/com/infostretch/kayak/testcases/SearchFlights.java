@@ -84,6 +84,7 @@ public class SearchFlights {
 			
 			homePage.clickDestination().click();
 			Thread.sleep(1000);
+			
 //			w = new WebDriverWait(driver, 30);
 //			w.until(ExpectedConditions.visibilityOf(homePage.calenderOpen()));
 
