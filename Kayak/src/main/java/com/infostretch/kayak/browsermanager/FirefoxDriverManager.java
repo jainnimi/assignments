@@ -30,7 +30,8 @@ public class FirefoxDriverManager extends DriverManager {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 		driver.manage().deleteAllCookies();
-		log.info("Friefox Browser instantiated");
+		log.info("Friefox Browser instantiated -new") ;
+		
 
 	}
 

@@ -35,6 +35,7 @@ public class ChromeDriverManager extends DriverManager{
 		log.info("Chrome Browser instantiated");
 		
 		
+		
 	}
 
 }
